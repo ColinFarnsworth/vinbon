@@ -1,0 +1,26 @@
+{
+  "name": "vinbon",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ColinFarnsworth/vinbon",
+  "authors": [
+    "Colin Farnsworth <cfarnsworth.spes@gmail.com>"
+  ],
+  "description": "cool video game stuff",
+  "main": "index.js",
+  "keywords": [
+    "video",
+    "games"
+    "dnd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
