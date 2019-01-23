@@ -1,6 +1,6 @@
 {
   "name": "vinbon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/ColinFarnsworth/vinbon",
   "authors": [
     "Colin Farnsworth <cfarnsworth.spes@gmail.com>"
@@ -9,7 +9,7 @@
   "main": "index.js",
   "keywords": [
     "video",
-    "games"
+    "games",
     "dnd"
   ],
   "license": "MIT",
