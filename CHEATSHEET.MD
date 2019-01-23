@@ -9,7 +9,7 @@ To release your library to `bower` initially:
 5. `git push origin master --tags`.  **DON'T FORGET --tags**
 6. Run the command:
 
-    ```bower register yourPackageName git://github.com/yourGitHubUsername/yourPackageName.git```
+    ```bower register vinbon git://github.com/ColinFarnsworth/vinbon.git```
 
 To ensure your release was successful:
 
