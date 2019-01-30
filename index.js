@@ -24,6 +24,13 @@
        * force of impact of a collision.
        * @return {Object} The body.
        */
+      getDistance(pointA, pointB){
+        const
+          distanceX = pointB.x - pointA.x,
+          distanceY = pointB.y - pointA.y
+          return Math.sqrt(distanceX * distanceX + distanceY *  distanceY)
+        
+      },
       makeBody: function(type, {
         velocityX = 0,
         velocityY = 0,
