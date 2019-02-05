@@ -31,6 +31,12 @@
           return Math.sqrt(distanceX * distanceX + distanceY *  distanceY)
         
       },
+      degreesToRadians(degrees){
+        return degrees * Math.PI / 180;
+      },
+      radiansToDegrees(radians){
+        return radians * 180 / Math.PI;
+      },
       makeBody: function(type, {
         velocityX = 0,
         velocityY = 0,
