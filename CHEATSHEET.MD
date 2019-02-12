@@ -23,7 +23,7 @@ You should see a print-out with data about your package, which should mirror wha
 ### Updating 
 
 To re-release your library to `bower`:
-
+'cd projects/game-lib/'
 1. Save your changes to the `index.js` file.
 2. Open up the `bower.json` file, and increment the version number, from `0.0.1` to `0.1.0` (this is a minor update). Save the file.
 3. `git add -A`
